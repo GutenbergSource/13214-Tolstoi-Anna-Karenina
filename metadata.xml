@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Anna Karenina</dc:title>
+      <dc:creator>Lev Nikolaevič Tolstoj (1828–1910)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2004-08-18</dc:publisher>
+      <dc:date>2004-08-18</dc:date>
+      <dc:rights>Public Domain
+</dc:rights>
+      <dc:subject>Adultery -- Fiction</dc:subject>
+      <dc:subject>Didactic fiction</dc:subject>
+      <dc:subject>Love stories</dc:subject>
+      <dc:subject>Married women -- Fiction</dc:subject>
+      <dc:subject>Russia -- Fiction</dc:subject>
+      <dc:identifier>pg:13214</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
